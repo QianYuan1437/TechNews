@@ -91,7 +91,7 @@ def render_page(data: dict, dates: list, out_path: Path):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>科技日报 · {date_str}</title>
-  <link rel="stylesheet" href="/news/assets/style.css">
+  <link rel="stylesheet" href="assets/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
 </head>
 <body>
@@ -122,7 +122,7 @@ def render_page(data: dict, dates: list, out_path: Path):
     <p>由 <a href="https://github.com/features/actions" target="_blank">GitHub Actions</a> 自动生成 · 托管于 <a href="https://pages.github.com" target="_blank">GitHub Pages</a></p>
   </footer>
 
-  <script src="/news/assets/app.js"></script>
+  <script src="assets/app.js"></script>
 </body>
 </html>"""
 
@@ -137,11 +137,11 @@ def generate_index_redirect(dates: list, docs_dir: Path):
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=/news/{latest}.html">
+  <meta http-equiv="refresh" content="0; url={latest}.html">
   <title>科技日报</title>
 </head>
 <body>
-  <p>正在跳转到最新一期... <a href="/news/{latest}.html">点击这里</a></p>
+  <p>正在跳转到最新一期... <a href="{latest}.html">点击这里</a></p>
 </body>
 </html>"""
     with open(docs_dir / "index.html", "w", encoding="utf-8") as f:
@@ -157,8 +157,7 @@ def copy_assets(docs_dir: Path):
 
 def main():
     data_dir = Path("data/news")
-    # 网站内容输出到 docs/news/ 子目录，对应 143709123.xyz/news 路径
-    docs_dir = Path("docs/news")
+    docs_dir = Path("docs")
     docs_dir.mkdir(parents=True, exist_ok=True)
 
     dates = load_index(data_dir)

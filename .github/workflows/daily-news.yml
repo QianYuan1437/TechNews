@@ -43,7 +43,7 @@ jobs:
       - name: 生成静态网站
         run: python scripts/generate_site.py
 
-      - name: 提交数据和网站文件
+      - name: 提交新闻数据
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
