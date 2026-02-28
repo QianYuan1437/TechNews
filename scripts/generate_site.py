@@ -157,8 +157,9 @@ def copy_assets(docs_dir: Path):
 
 def main():
     data_dir = Path("data/news")
-    docs_dir = Path("docs")
-    docs_dir.mkdir(exist_ok=True)
+    # 网站内容输出到 docs/news/ 子目录，对应 143709123.xyz/news 路径
+    docs_dir = Path("docs/news")
+    docs_dir.mkdir(parents=True, exist_ok=True)
 
     dates = load_index(data_dir)
     print(f"📋 发现 {len(dates)} 天的存档")
