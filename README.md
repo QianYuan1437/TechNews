@@ -2,7 +2,7 @@
 
 每日自动抓取科技圈精选资讯，由 GitHub Actions 驱动，发布于 GitHub Pages。
 
-🌐 **访问地址**：[https://143709123.xyz/news](https://143709123.xyz/news)
+🌐 **访问地址**：[https://qianyuan1437.github.io/TechNews](https://qianyuan1437.github.io/TechNews)
 
 ## 功能特性
 
