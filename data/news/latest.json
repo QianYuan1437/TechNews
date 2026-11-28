@@ -1,151 +1,151 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T13:40:05.148100+08:00",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T13:18:15.538410+08:00",
   "total": 56,
   "articles": [
     {
-      "title": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 27 Nov 2026 01:13:49 +0000"
+      "published": "Fri, 27 Nov 2026 23:06:29 +0000"
     },
     {
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Thu, 26 Nov 2026 21:47:45 +0000"
+      "published": "Sat, 28 Nov 2026 03:19:20 +0000"
     },
     {
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
-      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 27 Nov 2026 04:56:18 +0000"
+      "published": "Thu, 26 Nov 2026 17:20:27 +0000"
     },
     {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Thu, 26 Nov 2026 21:08:05 +0000"
+      "published": "Wed, 25 Nov 2026 15:16:53 +0000"
     },
     {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Thu, 26 Nov 2026 17:36:47 +0000"
+      "published": "Fri, 27 Nov 2026 15:40:31 +0000"
     },
     {
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Thu, 26 Nov 2026 17:11:29 +0000"
+      "published": "Fri, 27 Nov 2026 18:02:45 +0000"
     },
     {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "title": "Citroën Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Thu, 26 Nov 2026 17:47:45 +0000"
+      "published": "Fri, 27 Nov 2026 03:10:19 +0000"
     },
     {
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "url": "https://progrium.github.io/9ux/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Thu, 26 Nov 2026 20:49:49 +0000"
+      "published": "Fri, 27 Nov 2026 21:48:14 +0000"
     },
     {
-      "title": "Netflix’s coziest show has made a very quiet return",
-      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some ",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest […]",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-26T16:00:00-05:00"
+      "published": "2026-11-27T22:30:00-05:00"
     },
     {
-      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
-      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
-      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks ",
+      "title": "The absolute best Black Friday deals you can still get",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-26T14:00:00-05:00"
+      "published": "2026-11-27T22:28:32-05:00"
     },
     {
-      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is […]",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of gre",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-26T12:07:00-05:00"
+      "published": "2026-11-27T20:30:00-05:00"
     },
     {
-      "title": "Android app developers will soon have to share their address publicly",
-      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says c",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on ele",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-26T12:06:24-05:00"
+      "published": "2026-11-27T19:02:49-05:00"
     },
     {
-      "title": "The best Black Friday deals we’ve already found",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t",
+      "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised […]",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-26T11:55:00-05:00"
+      "published": "2026-11-27T18:53:19-05:00"
     },
     {
-      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
-      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights an",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+      "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a […]",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-26T11:38:00-05:00"
+      "published": "2026-11-27T18:32:17-05:00"
     },
     {
-      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
-      "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu […]",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-26T11:00:00-05:00"
+      "published": "2026-11-27T18:32:00-05:00"
     },
     {
-      "title": "GTA VI developers vote against unionization",
-      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
-      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organi",
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to any additional platforms for the foreseeable future.\" In a ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-26T10:55:24-05:00"
+      "published": "2026-11-27T18:30:32-05:00"
     },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -220,76 +220,103 @@
       "published": "Wed, 25 Nov 2026 20:03:27 +0000"
     },
     {
-      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
-      "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
-      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 27 Nov 2026 00:56:52 +0000"
+      "published": "Sat, 28 Nov 2026 00:14:33 +0000"
     },
     {
-      "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
-      "url": "https://www.wired.com/gallery/best-meal-kit-services-1/",
-      "summary": "Here are the best delivery services and meal kits in 2026, including the Martha Stewart meal service, a GLP-1–supportive plan, and a budget-friendly option.",
+      "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
+      "url": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+      "summary": "Yeti’s Black Friday deals cover everything from a cooler for the tailgate to a Rambler for your desk.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Thu, 26 Nov 2026 13:00:00 +0000"
+      "published": "Fri, 27 Nov 2026 23:54:42 +0000"
     },
     {
-      "title": "10 Best Office Chairs of 2026—We Tested 70 to Pick Them",
-      "url": "https://www.wired.com/gallery/best-office-chairs/",
-      "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+      "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
+      "url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
+      "summary": "If you’ve been eyeing Shark’s beauty tools, consider this your sign.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Thu, 26 Nov 2026 12:35:00 +0000"
+      "published": "Fri, 27 Nov 2026 23:27:04 +0000"
     },
     {
-      "title": "The Best MagSafe Wallets for Your Everyday Carry (2026)",
-      "url": "https://www.wired.com/gallery/best-magsafe-wallets/",
-      "summary": "The slim, convenient magnetic wallets you’ll actually want to stick to the back of your iPhone.",
+      "title": "The Best Black Friday Gaming Deals I’ve Found (2026)",
+      "url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
+      "summary": "Headsets, keyboards, and video games are all on sale. Here’s what we’ve found so far.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Thu, 26 Nov 2026 12:15:00 +0000"
+      "published": "Fri, 27 Nov 2026 23:15:34 +0000"
     },
     {
-      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
-      "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
-      "summary": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
+      "title": "Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)",
+      "url": "https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/",
+      "summary": "Shark’s vacuums impress me again and again, and my favorite models are deeply discounted right now..",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Thu, 26 Nov 2026 12:00:00 +0000"
+      "published": "Fri, 27 Nov 2026 22:11:06 +0000"
     },
     {
-      "title": "8 Best Keyboards (2026): My Honest Picks After Testing Dozens",
-      "url": "https://www.wired.com/gallery/best-keyboards/",
-      "summary": "As a professional keyboard nerd, I’ve tested dozens and dozens of models. One of these eight picks should suit your needs—no matter your budget.",
+      "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
+      "url": "https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/",
+      "summary": "From Kindle e-readers to Alexa-powered smart speakers, these are the Amazon device Black Friday sales you won't want to miss.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Thu, 26 Nov 2026 12:00:00 +0000"
+      "published": "Fri, 27 Nov 2026 20:51:30 +0000"
     },
     {
-      "title": "A First Drive With the Fiat Topolino in New York City",
-      "url": "https://www.wired.com/story/fiat-topolino-first-drive/",
-      "summary": "Fiat’s $15,000, 25-mph electric quadricycle is built for beach towns and gated communities. Naturally, I took it across the Manhattan Bridge.",
+      "title": "Best Black Friday AirPods Deals I’ve Found (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/",
+      "summary": "This is the lowest price I’ve ever seen the AirPods Pro 3 drop to, and there’s no telling when these discounts will change.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Thu, 26 Nov 2026 11:45:00 +0000"
+      "published": "Fri, 27 Nov 2026 19:51:43 +0000"
     },
     {
-      "title": "Best Gaming Mouse (2026): My Picks After Testing Dozens of Mice",
-      "url": "https://www.wired.com/gallery/best-gaming-mouse/",
-      "summary": "From ergonomic to ultralight, we’ve tested dozens of the best gaming mice to find the absolute best for the style of gaming you prefer.",
+      "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
+      "url": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
+      "summary": "We found deals on diapers, paper towels, and toys for yourself or your community this holiday season.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Thu, 26 Nov 2026 11:30:00 +0000"
+      "published": "Fri, 27 Nov 2026 19:26:33 +0000"
+    },
+    {
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world’s brightest young scientists, entrepreneurs, and inv",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 27 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations.  We’re on the hunt for researchers and founde",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 27 Nov 2026 10:48:47 +0000"
+    },
+    {
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s ",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 27 Nov 2026 10:00:00 +0000"
     },
     {
       "title": "The Download: Better bionic hands and AI’s natural-gas boom",
@@ -337,31 +364,40 @@
       "published": "Wed, 25 Nov 2026 10:00:00 +0000"
     },
     {
-      "title": "The Download: AI’s gas power boom and a consciousness reality check",
-      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a w",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Tue, 24 Nov 2026 13:10:00 +0000"
+      "title": "The best Black Friday deals Ars could find",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 27 Nov 2026 17:05:37 +0000"
     },
     {
-      "title": "Data centers are getting their own natural gas power plants",
-      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Tue, 24 Nov 2026 11:00:00 +0000"
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 27 Nov 2026 12:05:01 +0000"
     },
     {
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Mon, 23 Nov 2026 17:36:08 +0000"
+      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+      "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+      "summary": "We polled the Ars staff about their favorite pickups this year; here's the list.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 27 Nov 2026 11:30:04 +0000"
+    },
+    {
+      "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+      "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+      "summary": "There’s just one thing we still don’t know: How much will they cost?",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 27 Nov 2026 08:00:53 +0000"
     },
     {
       "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
@@ -400,40 +436,31 @@
       "published": "Wed, 25 Nov 2026 22:36:45 +0000"
     },
     {
-      "title": "Google search alternative Kagi launches Gmail rival",
-      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
-      "source": "Ars Technica",
-      "category": "深度科技",
-      "icon": "🖥️",
-      "published": "Wed, 25 Nov 2026 20:57:09 +0000"
+      "title": "「黑五」值得买：不容错过的数码硬件优惠",
+      "url": "https://sspai.com/post/119651",
+      "summary": "除了软件服务，这个黑五还有这些硬件值得一看。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Sat, 28 Nov 2026 11:30:00 +0800"
     },
     {
-      "title": "Backblaze explains why it's sharing customer information with advertisers",
-      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
-      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
-      "source": "Ars Technica",
-      "category": "深度科技",
-      "icon": "🖥️",
-      "published": "Wed, 25 Nov 2026 18:38:29 +0000"
+      "title": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+      "url": "https://sspai.com/post/119686",
+      "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本期不设特定有奖互动话题，欢迎你在评论区分享11月新作游玩体验，可以是本文出现的，也可以是本文未提及、但你特别想推荐给派友的。我们下期再见！> ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Sat, 28 Nov 2026 08:47:47 +0800"
     },
     {
-      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
-      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
-      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
-      "source": "Ars Technica",
-      "category": "深度科技",
-      "icon": "🖥️",
-      "published": "Wed, 25 Nov 2026 18:22:38 +0000"
-    },
-    {
-      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-      "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
-      "source": "Ars Technica",
-      "category": "深度科技",
-      "icon": "🖥️",
-      "published": "Wed, 25 Nov 2026 17:33:30 +0000"
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/119658",
+      "summary": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 27 Nov 2026 16:32:46 +0800"
     },
     {
       "title": "「黑五」值得买：不容错过的 App 和服务优惠",
@@ -479,33 +506,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Thu, 26 Nov 2026 11:13:53 +0800"
-    },
-    {
-      "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
-      "url": "https://sspai.com/post/119560",
-      "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Thu, 26 Nov 2026 08:08:07 +0800"
-    },
-    {
-      "title": "翻开 2027， 值得入手的新年日历推荐",
-      "url": "https://sspai.com/post/119264",
-      "summary": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ... 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Wed, 25 Nov 2026 17:48:34 +0800"
-    },
-    {
-      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
-      "url": "https://sspai.com/post/119310",
-      "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Wed, 25 Nov 2026 14:59:16 +0800"
     }
   ]
 }
